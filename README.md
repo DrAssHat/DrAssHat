@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DrAssHat
 - 👀 I’m interested in Computers, HAM radios and stuff.
-- 🌱 I’m currently learning c#, HTML and C++
+- 🌱 I’m i am in the process of learing c#, HTML and Java
 - 💞️ I’m looking to collaborate on Not Really Anyhting At The Moment
 - 📫 How to reach me, Not Anywhere At The Current Moment
 
