@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DrAssHat
 - 👀 I’m interested in Computers, 3d animation and stuff.
-- 🌱 I’m i am in the process of learing, HTML and CSS.
+- 🌱 I’m in the process of learing, HTML and CSS.
 
 - 💞️ I’m looking to collaborate on, Not Really Anyhting At The Moment.
 - 📫 How to reach me, Not Anywhere At The Current Moment
